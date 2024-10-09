@@ -2,7 +2,8 @@
 # Python --version
 
 #Q2
-# Python Virtual Machine. It is used to run Compiled Python Code (Byte Code)
+# Python Virtual Machine. It is used to run Co
+# Compiled Python Code (Byte Code)
 
 #Q3
 #Python -m file.py compile
